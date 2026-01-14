@@ -28,6 +28,7 @@
 ### Development Tools
 - Visual Studio Code
 - Android Studio
+- IntelliJ IDEA
 
 ### Design & Prototyping Tools
 - Figma
