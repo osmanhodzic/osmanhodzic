@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**osmanhodzic/osmanhodzic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Amina Osmanhodzic
 
-Here are some ideas to get you started:
+#### *Informatics and Computing Student*
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##Skills
+
+
+- Analytical Thinking
+- Problem Solving
+- Attention to Detail
+- Time Management
+- Communication Skills
+
+<hr>
+
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Programming Languages
+- Java
+
+### Development Tools
+- Visual Studio Code
+- Android Studio
+
+### Design & Prototyping Tools
+- Figma
+- Canva
+- Adobe Photoshop
+
+
