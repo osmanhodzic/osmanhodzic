@@ -1,5 +1,6 @@
 
 # Amina Osmanhodzic
+<hr>
 
 #### *Informatics and Computing Student*
 
