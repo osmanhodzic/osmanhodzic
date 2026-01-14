@@ -2,7 +2,7 @@
 # Amina Osmanhodzic
 
 #### *Informatics and Computing Student*
-<hr>
+
 
 
 ## Skills
@@ -14,7 +14,7 @@
 - Time Management
 - Communication Skills
 
-<hr>
+
 
 
 ### Web Technologies
